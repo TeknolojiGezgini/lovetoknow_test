@@ -1,0 +1,404 @@
+Array
+(
+    [files] => Array
+        (
+            [0] => Array
+                (
+                    [file_name] => A.txt
+                    [file_path] => ./files/A.txt
+                    [numbers_sum] => 22
+                    [sub_files] => Array
+                        (
+                            [0] => B.txt
+                            [1] => C.txt
+                            [2] => D.txt
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file_name] => B.txt
+                    [file_path] => ./files/B.txt
+                    [numbers_sum] => 28
+                    [sub_files] => Array
+                        (
+                            [0] => A.txt
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [file_name] => C.txt
+                    [file_path] => ./files/C.txt
+                    [numbers_sum] => 0
+                    [sub_files] => Array
+                        (
+                            [0] => A.txt
+                            [1] => B.txt
+                            [2] => D.txt
+                            [3] => E.txt
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file_name] => D.txt
+                    [file_path] => ./files/D.txt
+                    [numbers_sum] => 54
+                )
+
+            [4] => Array
+                (
+                    [file_name] => B.txt
+                    [file_path] => ./files/B.txt
+                    [numbers_sum] => 28
+                    [sub_files] => Array
+                        (
+                            [0] => A.txt
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [file_name] => C.txt
+                    [file_path] => ./files/C.txt
+                    [numbers_sum] => 0
+                    [sub_files] => Array
+                        (
+                            [0] => A.txt
+                            [1] => B.txt
+                            [2] => D.txt
+                            [3] => E.txt
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [file_name] => D.txt
+                    [file_path] => ./files/D.txt
+                    [numbers_sum] => 54
+                )
+
+            [7] => Array
+                (
+                    [file_name] => A.txt
+                    [file_path] => ./files/A.txt
+                    [numbers_sum] => 22
+                    [sub_files] => Array
+                        (
+                            [0] => B.txt
+                            [1] => C.txt
+                            [2] => D.txt
+                        )
+
+                )
+
+            [8] => Array
+                (
+                    [file_name] => A.txt
+                    [file_path] => ./files/A.txt
+                    [numbers_sum] => 22
+                    [sub_files] => Array
+                        (
+                            [0] => B.txt
+                            [1] => C.txt
+                            [2] => D.txt
+                        )
+
+                )
+
+            [9] => Array
+                (
+                    [file_name] => B.txt
+                    [file_path] => ./files/B.txt
+                    [numbers_sum] => 28
+                    [sub_files] => Array
+                        (
+                            [0] => A.txt
+                        )
+
+                )
+
+            [10] => Array
+                (
+                    [file_name] => D.txt
+                    [file_path] => ./files/D.txt
+                    [numbers_sum] => 54
+                )
+
+            [11] => Array
+                (
+                    [file_name] => E.txt
+                    [file_path] => ./files/E.txt
+                    [numbers_sum] => 99
+                    [sub_files] => Array
+                        (
+                            [0] => A.txt
+                            [1] => B.txt
+                            [2] => C.txt
+                            [3] => D.txt
+                        )
+
+                )
+
+            [12] => Array
+                (
+                    [file_name] => A.txt
+                    [file_path] => ./files/A.txt
+                    [numbers_sum] => 22
+                    [sub_files] => Array
+                        (
+                            [0] => B.txt
+                            [1] => C.txt
+                            [2] => D.txt
+                        )
+
+                )
+
+            [13] => Array
+                (
+                    [file_name] => A.txt
+                    [file_path] => ./files/A.txt
+                    [numbers_sum] => 22
+                    [sub_files] => Array
+                        (
+                            [0] => B.txt
+                            [1] => C.txt
+                            [2] => D.txt
+                        )
+
+                )
+
+            [14] => Array
+                (
+                    [file_name] => B.txt
+                    [file_path] => ./files/B.txt
+                    [numbers_sum] => 28
+                    [sub_files] => Array
+                        (
+                            [0] => A.txt
+                        )
+
+                )
+
+            [15] => Array
+                (
+                    [file_name] => D.txt
+                    [file_path] => ./files/D.txt
+                    [numbers_sum] => 54
+                )
+
+            [16] => Array
+                (
+                    [file_name] => E.txt
+                    [file_path] => ./files/E.txt
+                    [numbers_sum] => 99
+                    [sub_files] => Array
+                        (
+                            [0] => A.txt
+                            [1] => B.txt
+                            [2] => C.txt
+                            [3] => D.txt
+                        )
+
+                )
+
+            [17] => Array
+                (
+                    [file_name] => B.txt
+                    [file_path] => ./files/B.txt
+                    [numbers_sum] => 28
+                    [sub_files] => Array
+                        (
+                            [0] => A.txt
+                        )
+
+                )
+
+            [18] => Array
+                (
+                    [file_name] => C.txt
+                    [file_path] => ./files/C.txt
+                    [numbers_sum] => 0
+                    [sub_files] => Array
+                        (
+                            [0] => A.txt
+                            [1] => B.txt
+                            [2] => D.txt
+                            [3] => E.txt
+                        )
+
+                )
+
+            [19] => Array
+                (
+                    [file_name] => D.txt
+                    [file_path] => ./files/D.txt
+                    [numbers_sum] => 54
+                )
+
+            [20] => Array
+                (
+                    [file_name] => B.txt
+                    [file_path] => ./files/B.txt
+                    [numbers_sum] => 28
+                    [sub_files] => Array
+                        (
+                            [0] => A.txt
+                        )
+
+                )
+
+            [21] => Array
+                (
+                    [file_name] => C.txt
+                    [file_path] => ./files/C.txt
+                    [numbers_sum] => 0
+                    [sub_files] => Array
+                        (
+                            [0] => A.txt
+                            [1] => B.txt
+                            [2] => D.txt
+                            [3] => E.txt
+                        )
+
+                )
+
+            [22] => Array
+                (
+                    [file_name] => D.txt
+                    [file_path] => ./files/D.txt
+                    [numbers_sum] => 54
+                )
+
+            [23] => Array
+                (
+                    [file_name] => A.txt
+                    [file_path] => ./files/A.txt
+                    [numbers_sum] => 22
+                    [sub_files] => Array
+                        (
+                            [0] => B.txt
+                            [1] => C.txt
+                            [2] => D.txt
+                        )
+
+                )
+
+            [24] => Array
+                (
+                    [file_name] => A.txt
+                    [file_path] => ./files/A.txt
+                    [numbers_sum] => 22
+                    [sub_files] => Array
+                        (
+                            [0] => B.txt
+                            [1] => C.txt
+                            [2] => D.txt
+                        )
+
+                )
+
+            [25] => Array
+                (
+                    [file_name] => B.txt
+                    [file_path] => ./files/B.txt
+                    [numbers_sum] => 28
+                    [sub_files] => Array
+                        (
+                            [0] => A.txt
+                        )
+
+                )
+
+            [26] => Array
+                (
+                    [file_name] => C.txt
+                    [file_path] => ./files/C.txt
+                    [numbers_sum] => 0
+                    [sub_files] => Array
+                        (
+                            [0] => A.txt
+                            [1] => B.txt
+                            [2] => D.txt
+                            [3] => E.txt
+                        )
+
+                )
+
+            [27] => Array
+                (
+                    [file_name] => D.txt
+                    [file_path] => ./files/D.txt
+                    [numbers_sum] => 54
+                )
+
+        )
+
+    [numbers_total] => 926
+    [files_total] => Array
+        (
+            [0] => B.txt
+            [1] => C.txt
+            [2] => D.txt
+            [3] => A.txt
+            [4] => A.txt
+            [5] => B.txt
+            [6] => D.txt
+            [7] => E.txt
+            [8] => A.txt
+            [9] => A.txt
+            [10] => B.txt
+            [11] => D.txt
+            [12] => E.txt
+            [13] => B.txt
+            [14] => C.txt
+            [15] => D.txt
+            [16] => B.txt
+            [17] => C.txt
+            [18] => D.txt
+            [19] => A.txt
+            [20] => A.txt
+            [21] => B.txt
+            [22] => C.txt
+            [23] => D.txt
+            [24] => B.txt
+            [25] => C.txt
+            [26] => D.txt
+            [27] => B.txt
+            [28] => C.txt
+            [29] => D.txt
+            [30] => A.txt
+            [31] => A.txt
+            [32] => B.txt
+            [33] => C.txt
+            [34] => D.txt
+            [35] => A.txt
+            [36] => A.txt
+            [37] => B.txt
+            [38] => D.txt
+            [39] => E.txt
+            [40] => A.txt
+            [41] => A.txt
+            [42] => B.txt
+            [43] => D.txt
+            [44] => E.txt
+            [45] => B.txt
+            [46] => C.txt
+            [47] => D.txt
+            [48] => B.txt
+            [49] => C.txt
+            [50] => D.txt
+            [51] => A.txt
+            [52] => A.txt
+            [53] => B.txt
+            [54] => D.txt
+            [55] => E.txt
+        )
+
+)
